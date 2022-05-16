@@ -39,14 +39,16 @@ Given an int, return `YES` if even, and `NO` if odd
     <b>Output</b> "NO"
 </pre>
 
+<br>
 <hr>
+<br>
 
 ## Problem : FINAL BOSS
 
 Given a string, if its length is **strictly** more than 10 characters. The string should be replaced with a
 special abbreviation. Else, return the word.
 
-<hr>
+<br>
 
 **Example 1**
 
