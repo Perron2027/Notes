@@ -1,4 +1,4 @@
-# Assignment
+# Problems
 
 ## Problem: Easy
 
@@ -16,6 +16,10 @@ Initialize `int sum` to be the addition of `int a` and `int b`;
     <b>Input:</b> a = 10, b = 10
     <b>Output:</b> sum = 20
 </pre>
+
+<br>
+<hr>
+<br>
 
 ## Problem: Moderate
 
@@ -36,6 +40,10 @@ Given an int, return `YES` if even, and `NO` if odd
     <b>Input:</b> c = 1
     <b>Output</b> "NO"
 </pre>
+
+<br>
+<hr>
+<br>
 
 ## Problem : FINAL BOSS
 
