@@ -63,6 +63,13 @@ The git push command is used to upload local repository content to a remote repo
 
 - `git push origin <branch name>`
 
+### Pulling from a Branch
+Fetch the specified remote’s copy of the current branch and immediately merge it into the local copy
+- `git pull <remote>`
+
+Similar to the default invocation, fetches the remote content but does not create a new merge commit.
+- `git pull --no-commit <remote>`
+
 ### Creating a Branch
 
 To know what branch you are currently in
