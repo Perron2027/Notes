@@ -1,5 +1,7 @@
 # Introduction to Git
 
+
+Welcome to Jeremiah Bolden's Branch
 ## GIT
 
 Git is a version control system used for tracking changes in computer files. It is generally used for source code
