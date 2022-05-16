@@ -1,4 +1,4 @@
-# Assignment
+# Problems
 
 ## Problem: Easy
 
