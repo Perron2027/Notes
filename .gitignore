@@ -24,7 +24,7 @@ hs_err_pid*
 
 # Misc Files #
 *.DS_Store
-*notes.iml
+*.iml
 
 *.idea/
 *out/
