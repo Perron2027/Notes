@@ -18,6 +18,8 @@ Initialize `int sum` to be the addition of `int a` and `int b`;
 </pre>
 
 <br>
+<hr>
+<br>
 
 ## Problem: Moderate
 
