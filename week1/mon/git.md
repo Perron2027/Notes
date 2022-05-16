@@ -45,6 +45,11 @@ but it also keeps the main branch free from questionable code.
 
 This will clone a repository. 
 
+
+### Pulling A GitHub Repository
+
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+
 ### Pushing To GitHub Repository
 
 The git status command displays the state of the working directory and the staging area. It lets you see which changes
