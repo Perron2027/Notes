@@ -1,7 +1,7 @@
 package com.revature.assignments;
 
 public class UI {
-    public static void Main(String[] args)
+    public static void main(String[] args)
     {
         Solutions test = new Solutions();
 
