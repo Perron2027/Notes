@@ -17,6 +17,8 @@ Initialize `int sum` to be the addition of `int a` and `int b`;
     <b>Output:</b> sum = 20
 </pre>
 
+<br>
+
 ## Problem: Moderate
 
 Given an int, return `YES` if even, and `NO` if odd
@@ -37,12 +39,14 @@ Given an int, return `YES` if even, and `NO` if odd
     <b>Output</b> "NO"
 </pre>
 
+<hr>
+
 ## Problem : FINAL BOSS
 
 Given a string, if its length is **strictly** more than 10 characters. The string should be replaced with a
 special abbreviation. Else, return the word.
 
-<br>
+<hr>
 
 **Example 1**
 

@@ -114,35 +114,3 @@ public int getRandomNumber() {
     return (int)(Math.random() * 10) + 1; 
 }
 ```
-
-# Variable scopes
-
-Scope of a variable is the part of the program where the variable is accessible. Like C/C++, in Java, all identifiers
-are lexically (or statically) scoped, i.e.scope of a variable can determined at compile time and independent of function
-call stack. Java programs are organized in the form of classes. Every class is part of some package. Java scope rules
-can be covered under following categories.
-
-```
-public class Test
-{
-    /* All variables defined directly inside a class are member variables */
-    int a;
-    String b;
-    
-    public void method1() {
-        /* Local variable (Method level scope) */
-        int x;
-        char c;
-    }
-    
-    public char method2() {
-        /* Notice you can access int a but not int x.
-         * That because they're not in the same scope.
-         */
-         
-         char c; 
-         
-         return c;
-    }
-}
-```
