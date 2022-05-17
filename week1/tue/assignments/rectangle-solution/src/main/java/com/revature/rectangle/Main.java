@@ -11,22 +11,19 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         List<Rectangle> rectangles = new ArrayList<>();
 
-//        for (int i = 0; i < 5; i++) {
-//            System.out.print("Enter in rectangle name: ");
-//            Rectangle rect = new Rectangle(scan.nextLine(), rand.nextInt(1000), rand.nextInt(1000));
-//            rectangles.add(rect);
-//        }
-//
-//        System.out.println();
-//
-//        for (Rectangle rect : rectangles) {
-//            System.out.println(rect);
-//        }
-//
-//        System.out.println("\nMax area: " + new Rectangle().findMaxArea(rectangles, new Comparator()));
-//        System.out.println("\nMax perimeter: " + new Rectangle().findMaxPerimeter(rectangles, new Comparator()));
+       for (int i = 0; i < 5; i++) {
+           System.out.print("Enter in rectangle name: ");
+           Rectangle rect = new Rectangle(scan.nextLine(), rand.nextInt(1000), rand.nextInt(1000));
+           rectangles.add(rect);
+       }
 
-        Rectangle rect = new Rectangle("1", -1, -1);
+       System.out.println();
 
+       for (Rectangle rect : rectangles) {
+           System.out.println(rect);
+       }
+
+       System.out.println("\nMax area: " + new Rectangle().findMaxArea(rectangles, new Comparator()));
+       System.out.println("\nMax perimeter: " + new Rectangle().findMaxPerimeter(rectangles, new Comparator()));
     }
 }
