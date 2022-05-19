@@ -3,7 +3,7 @@
 ## Most Reccurring Integer
 
 Given a string `s`, return the most recurring integer. If multiple integers have the same recurring count, return the
-latest integer.
+first most recurring integer.
 
 <br>
 
@@ -18,7 +18,7 @@ repeatedly.
 <pre>
 <b>Input:</b> s = "11222111"
 <b>Output:</b> 2
-<b>Explanation:</b> both '2' and '1' have a recurring count of 3, but '2' is the latest.
+<b>Explanation:</b> both '2' and '1' have a recurring count of 3, but '2' is the first most reccurring integer.
 </pre>
 
 **Example 2:**
@@ -37,5 +37,5 @@ repeatedly.
 
 <br>
 
-**MANDATORY**: Algorithm must be O(n)
+**MANDATORY**: Algorithm must be O(n).
 
